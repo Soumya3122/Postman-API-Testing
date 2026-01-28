@@ -1,23 +1,28 @@
-# Postman-API-Testing
-This project focuses on testing REST APIs using Postman.
-The objective is to validate API responses, status codes, and data accuracy.
 
 # API Testing using Postman
 
-## Overview
-This project demonstrates API testing using Postman for REST APIs.
+## 📌 Project Overview
+This project focuses on testing REST APIs using Postman.
+The objective is to validate API responses, status codes, and data accuracy.
 
-## APIs Tested
+## 🧪 APIs Tested
 - Login API
 - Create User API
 - Get User API
 - Delete User API
 
-## Tools
+## 🛠 Tools Used
 - Postman
 - Newman
 - JSON
+- GitHub
 
-## Author
-Priya
+## 🔍 Validations Performed
+- Status code validation
+- Response body validation
+- Response time validation
+
+## 👤 Author
+Soumya Ranjan 
+
 
